@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
+
+  <VitalsMonitor.label>Moniteur Vital</VitalsMonitor.label>
+  <VitalsMonitor.description>Débloque le moniteur Vital. Cela améliore la qualité des soins des patients quand ils à côté d'un lit médical (pas un lit normal en mode de chevet!).</VitalsMonitor.description>
+
+  <ComponentAssembly.label>Atelier de composant</ComponentAssembly.label>
+  <ComponentAssembly.description>Permet de construire l'atelier de composant, peut fabriquer des composants aux colons.</ComponentAssembly.description>
+
+  <MultibarrelWeapons.label>Miniguns</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Permet la construction de Miniguns.</MultibarrelWeapons.description>
+  
+  <Cryptosleep.label>Capsule hibernation</Cryptosleep.label>
+  <Cryptosleep.description>Débloque la capsule hibernation artificielle.</Cryptosleep.description>
+
+  <PoweredArmor.label>Armure énergétique</PoweredArmor.label>
+  <PoweredArmor.description>Neuro-mémétiques robotique et de la technologie plastacier avancée permet la production d'armure énergétique et le casque énergétique.</PoweredArmor.description>
+
+  <ChargedShot.label>Fusils d'énergie</ChargedShot.label>
+  <ChargedShot.description>Plongez dans les mystères de l'énergie et des projectile a d'impulsion. Permet la production de fusils d'énergie.</ChargedShot.description>
+
+</LanguageData>
