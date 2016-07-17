@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=============================== Tier 1: pre-electricity ===================================-->
+  
+  <Pemmican.label>Viande de boeuf séchée</Pemmican.label>
+  <Pemmican.description>Permet de séchée la viande et les légumes et les ingrédients produit pour qu'il ne pourris pas.</Pemmican.description>
+
+  <Devilstrand.label>Diable brun</Devilstrand.label>
+  <Devilstrand.description>Permet aux colons la plantation du diable brun. C'est est un champignon à croissance lente, à partir de laquelle on peut obtenir une fibre végétale précieuse.</Devilstrand.description>
+
+  <Brewing.label>Brasserie</Brewing.label>
+  <Brewing.description>Débloque la brasserie. Houblon attachés peuvent maintenant être transformés en délicieuse bière.</Brewing.description>
+
+  <Stonecutting.label>Tailleur de pierre</Stonecutting.label>
+  <Stonecutting.description>Débloque le tailleur de pierre. Cela permet le traitement des blocs de matériau de construction approprié.</Stonecutting.description>
+
+  <CarpetMaking.label>Tapis</CarpetMaking.label>
+  <CarpetMaking.description>Débloque les tapis. Ceci ajuste l'environnement des colons pour l'embelli.</CarpetMaking.description>
+
+  <Smithing.label>Forge</Smithing.label>
+  <Smithing.description>Permet la construction d'une forge pour la produition d'armes et d'outils métalliques.</Smithing.description>
+
+  <ComplexClothing.label>Tailleur</ComplexClothing.label>
+  <ComplexClothing.description>Le tailleur produit des vêtements complexes tels que le pantalon, les manteaux ou même un chapeau de cow-boy.</ComplexClothing.description>
+
+  <Electricity.label>Electricité</Electricity.label>
+  <Electricity.description>Créer et utiliser l'électricité pour la cuisine et d'autres tâches simples.</Electricity.description>
+  
+</LanguageData>
