@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=============================== Tier 3: Hi-tech research bench ===================================-->
+
+  <Firefoam.label>Extincteur a mousse</Firefoam.label>
+  <Firefoam.description>Permet la construction de l'extincteur a mousse. Il sert a étouffe le feu pour arrêter les flammes.</Firefoam.description>
+
+  <MoisturePump.label>Pompe de drainage</MoisturePump.label>
+  <MoisturePump.description>Permet la construction d'une pompe de drainage pour asséché le sol.</MoisturePump.description>
+
+  <GeothermalPower.label>Géothermique</GeothermalPower.label>
+  <GeothermalPower.description>Permet la construction de centrales électriques géothermique pour la production d'énergie continue.</GeothermalPower.description>
+
+  <HospitalBed.label>Lits d'hôpitaux</HospitalBed.label>
+  <HospitalBed.description>Débloque lits d'hôpitaux. Celles-ci augmentent la probabilité de succès des traitements et des procédures médicales et chirurgicales.</HospitalBed.description>
+
+  <MultiAnalyzer.label>Multi-analyseur</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Débloque le multi-analyseur. Cela permet d'améliorer la vitesse de recherche, lorsqu'il est placé à côté d'une table de recherche.</MultiAnalyzer.description>
+  
+</LanguageData>
