@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--================================ Tier 2: Basic electricity ====================================-->
+  
+
+  <Batteries.label>Batterie</Batteries.label>
+  <Batteries.description>Débloque les batteries pour stocker l'énergie électrique.</Batteries.description>
+
+  <NutrientPaste.label>Pate à nutriments</NutrientPaste.label>
+  <NutrientPaste.description>Débloque le distributeur a pate à nutriments qui permet automatiquement de produire des comestibles à partir de matières végétales.</NutrientPaste.description>
+  
+  <SolarPanels.label>Panneaux solaires</SolarPanels.label>
+  <SolarPanels.description>Débloque les panneaux solaires, qui peuvent être au cours de l'énergie électrique générée par jour.</SolarPanels.description>
+  
+  <AirConditioning.label>Climatisation</AirConditioning.label>
+  <AirConditioning.description>Débloque les systèmes de conditionnement d'air, avec lequel le chauffage et la climatisation peuvent être réglementés.</AirConditioning.description>
+  
+  <Autodoors.label>Portes automatiques</Autodoors.label>
+  <Autodoors.description>Débloque portes automatiques qui permettent le passage sans ralentissement.</Autodoors.description>
+
+  <Hydroponics.label>Tables hydroponique</Hydroponics.label>
+  <Hydroponics.description>Débloque les tables hydroponique. Cela permet à la culture des plantes à l'intérieur des bâtiments, indépendamment des influences extérieures.</Hydroponics.description>
+  
+  <ElectricSmelting.label>Four électrique</ElectricSmelting.label>
+  <ElectricSmelting.description>Débloque le four électrique. Ceci permet l'utilisation de la chaleur et de fort électroaimants extraire le métal des morceaux de débris</ElectricSmelting.description>
+
+  <ElectricCremation.label>Four crématoire</ElectricCremation.label>
+  <ElectricCremation.description>Débloque le crématoire. Ici les corps et les objets peuvent être incinérés.</ElectricCremation.description>
+
+  <ColoredLights.label>Lumières colorées</ColoredLights.label>
+  <ColoredLights.description>Permet aux colons de fabriquer des éclairages de couleur à but décoratif.</ColoredLights.description>
+  
+  <Machining.label>L'établi de mécanique</Machining.label>
+  <Machining.description>Débloque l'établi de mécanique. Ici, les armes à feu et d'autres équipements fabriqués et Mechanoids peuvent être décomposés.</Machining.description>
+
+  <Mortars.label>Le mortier</Mortars.label>
+  <Mortars.description>Débloque le mortier. Cela permet au feu à des objets éloignés.</Mortars.description>
+
+  <IEDBomb.label>Mine explosifs</IEDBomb.label>
+  <IEDBomb.description>Débloque les mine explosifs improvisés. Ceci sont fabriqué à partir des obus d'artillerie.</IEDBomb.description>
+
+  <IEDIncendiary.label>Mine l'incendiaire</IEDIncendiary.label>
+  <IEDIncendiary.description>Débloque les mine l'incendiaire improvisée. Ceci sont fabriqué à partir des obus d'artillerie.</IEDIncendiary.description>
+
+  <MicroelectronicsBasics.label>Laboratoire high-tech</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>L'essentiel pour travailler avec l'électronique complexe. Cela déverrouille le laboratoire high-tech, la radio et d'autres projets de recherche</MicroelectronicsBasics.description>
+
+  <!--=============================== Tier 2.5 Microelectronics ===================================-->
+
+  <TubeTelevision.label>Téléviseurs à tube</TubeTelevision.label>
+  <TubeTelevision.description>Débloque les téléviseurs à tube.</TubeTelevision.description>
+
+  <GunTurrets.label>Armes automatiques</GunTurrets.label>
+  <GunTurrets.description>Permet la production d'armes automatiques.</GunTurrets.description>
+
+  <!-- Cut misc -->
+
+  
+
+  
+</LanguageData>
